@@ -1,0 +1,16 @@
+.country{
+    border: 2px solid blueviolet;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#countries-api{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.nav-colour{
+    background-color: #23180D;
+}
+main{
+    background-color: #2D2013;
+}
